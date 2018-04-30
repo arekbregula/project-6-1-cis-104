@@ -1,0 +1,10 @@
+{
+  "name": "project-6-cis-104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Arkadiusz Bregula",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
